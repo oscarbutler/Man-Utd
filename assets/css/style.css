@@ -1,0 +1,8 @@
+/*Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Roboto:ital,wght@1,100&display=swap');
+/*Astericks wildcard to override default styles*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
