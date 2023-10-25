@@ -8,8 +8,8 @@
 }
 h1{
     font-family:"Raleway";
-    color: #fc2f2f;
-    font-size:40px;
+    color: #000000;
+    font-size:20px;
 }
 body{
     font-family: 'Times New Roman', Times, serif;
@@ -18,9 +18,14 @@ body{
 }
 header{
     position: relative;
-    background-color: #ffffff;
+    background-color: #ff7a7a;
     width:100%;
     box-shadow:0px 5px 5px #000000;
+    align-items: baseline;
+}
+header a{
+    text-decoration: none;
+    color: inherit;
 }
 #logo{
     color: #fc2f2f;
@@ -29,14 +34,58 @@ header{
 #one{
     background: url(../images/old\ trafford.jpg) no-repeat center center/cover;
     position: relative;
- 
-       height: 500px;
+    height: 500px;
     width: 100%;
 }
 #cover-text{
     background-color: rgba(255,255,255,0.6);
-    padding-top: 15px;
-    padding:5px;
+    padding-top: 30px;
+    padding-left:5px;
     position:absolute;
-    width: 200px;
+    width: 300px;
+    height:150px;
+    font-size: 15px;
+}
+nav {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: none;
+    display: none;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+    display: none;
+}
+
+main{
+    margin-top: 5px;
+}
+
+nav{
+    width: fit-content;
+    display: block;
+    position: relative;
+}
+.nav-toggle-label{
+    display: none;
+}
+footer{
+    background-color: aquamarine;
+    height: 80px;
+}
+
+#links{
+    justify-content: space-evenly;
+    
 }
