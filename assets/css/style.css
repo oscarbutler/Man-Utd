@@ -11,7 +11,8 @@
 h1{
     font-family:"Raleway";
     color: #000000;
-    font-size:20px;
+    font-size:25px;
+    text-align: center;
 }
 
 body{
@@ -33,7 +34,7 @@ header a{
     color: inherit;
 }
 
-#logo{
+.logo{
     color: #fc2f2f;
     background-color: #ffffff;
 }
@@ -41,7 +42,7 @@ header a{
 #one{
    background: url("../images/old-trafford.jpg") no-repeat center center/cover;
     position: relative;
-    height: 500px;
+    height: 600px;
     width: 100%;
 }
 
@@ -72,7 +73,7 @@ nav {
     display: none;
 }
 
-#nav-toggle-label {
+.nav-toggle-label {
     font-size: 2rem;
     display: none;
 }
@@ -81,17 +82,51 @@ main{
     margin-top: 5px;
 }
 
-
 nav{
     width: fit-content;
-    display: block;
+    display: none;
     position: relative;
 }
 
-#nav-toggle-label{
-    display: none;
+.nav-toggle-label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left:1em;
+    display: flex;
+    align-items: center;
 }
 
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    margin-bottom: 1em;
+    margin-left: 1em;
+    text-align: center;
+}
+
+.nav-toggle:checked ~ nav{
+    display: block;
+}
+
+nav a:hover{
+    color: #000;
+}
+
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after{
+    display: block;
+    background: #ffffff;
+    height: 2px;
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+}
 
 
 #links {
