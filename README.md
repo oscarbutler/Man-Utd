@@ -14,3 +14,8 @@ Contact Page
 
 ### Font
 -I have used a font from (https://fonts.google.com/)
+
+### Color
+-I have mainly used a light red because red is the color of the football club I have made this website on. I have used a lighter red rather then a darker one since it is easier to look at for a longer duration of time and more appealing.
+
+-White and black is also recurring colors since it is very easy to see and bold which is important when reading information.
