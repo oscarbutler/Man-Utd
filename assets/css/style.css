@@ -145,4 +145,67 @@ nav a:hover{
 
 /*Contact Form*/
 
+.join-button{
+    background-color: orange;
+    border-radius: 4px;
+    height: 30px;
+    width: 70px;
+}
 
+#question-form {
+    color: #000;
+    background: url("../images/theatre-of-dreams.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 600px;
+    
+}
+
+#question-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+#question {
+    width: 75%;
+}
+
+#full_name {
+    width: 31.4%;
+}
+
+#email_address {
+    width: 30%;
+}
+
+#history-section {
+    background: url("../images/trophies.jpg") no-repeat center/cover;
+    height: 600px;
+}
+
+#history-text {
+background: rgba(255,122 ,122 , 0.6);
+}
+
+#history-text>h2{
+    font-size: large;
+    
+}
+
+#history-text>h3{
+    font-size: medium;
+    text-align: center;
+}
+
+@media screen and (min-width:300px) {
+    #history-text>h3{
+        font-size: large;
+        text-align: center;
+    }
+
+    #history-text>h2{
+        font-size: 30px;
+        text-align: center;
+        text-decoration-line: underline;
+        
+    }
+}
