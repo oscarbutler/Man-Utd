@@ -11,3 +11,6 @@ Contact Page
 
 ## Footer
 -The footer contains four different social media pages which can be open a link to each website when clicked on.
+
+### Font
+-I have used a font from (https://fonts.google.com/)
