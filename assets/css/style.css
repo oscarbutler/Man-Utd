@@ -8,57 +8,57 @@
     box-sizing: border-box;
 }
 
-h1{
-    font-family:"Raleway";
+h1 {
+    font-family: "Raleway";
     color: #000000;
-    font-size:25px;
+    font-size: 25px;
     text-align: center;
 }
 
-body{
+body {
     font-family: 'Times New Roman', Times, serif;
-   
+
     font-size: small;
 }
 
 /*Header*/
 
-header{
+header {
     position: relative;
     background-color: #ff7a7a;
-    width:100%;
-    box-shadow:0px 5px 5px #000000;
+    width: 100%;
+    box-shadow: 0px 5px 5px #000000;
     align-items: baseline;
 }
 
-header a{
+header a {
     text-decoration: none;
     color: inherit;
 }
 
-.logo{
+.logo {
     color: #fc2f2f;
     background-color: #ffffff;
 }
 
-#one{
-   background: url("../images/old-trafford.jpg") no-repeat center center/cover;
+#one {
+    background: url("../images/old-trafford.jpg") no-repeat center center/cover;
     position: relative;
     height: 600px;
     width: 100%;
 }
 
-#cover-text{
-    background-color: rgba(255,255,255,0.6);
+#cover-text {
+    background-color: rgba(255, 255, 255, 0.6);
     padding-top: 30px;
-    padding-left:5px;
-    position:absolute;
+    padding-left: 5px;
+    position: absolute;
     width: 300px;
-    height:150px;
+    height: 150px;
     font-size: 15px;
 }
 
-main{
+main {
     margin-top: 5px;
 }
 
@@ -87,44 +87,44 @@ nav {
 }
 
 
-nav{
+nav {
     width: fit-content;
     display: none;
     position: relative;
 }
 
-.nav-toggle-label{
+.nav-toggle-label {
     position: absolute;
     top: 0;
     left: 0;
-    margin-left:1em;
+    margin-left: 1em;
     display: flex;
     align-items: center;
 }
 
-nav ul{
+nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-nav li{
+nav li {
     margin-bottom: 1em;
     margin-left: 1em;
     text-align: center;
 }
 
-.nav-toggle:checked ~ nav{
+.nav-toggle:checked~nav {
     display: block;
 }
 
-nav a:hover{
+nav a:hover {
     color: #000;
 }
 
 .nav-toggle-label span,
 .nav-toggle-label span::before,
-.nav-toggle-label span::after{
+.nav-toggle-label span::after {
     display: block;
     background: #ffffff;
     height: 2px;
@@ -151,7 +151,7 @@ nav a:hover{
 
 /*Contact Form*/
 
-.join-button{
+.join-button {
     background-color: orange;
     border-radius: 4px;
     height: 30px;
@@ -189,17 +189,17 @@ img {
     margin-right: 50%;
 }
 
-#photos{
+#photos {
     line-height: 0;
     column-count: 2;
-    
+
     padding: 10px;
-    
+
 }
 
-#pictures img{
+#pictures img {
 
-line-height: 1em;
+    line-height: 1em;
 }
 
 /*History Page*/
@@ -210,46 +210,44 @@ line-height: 1em;
 }
 
 #history-text {
-background: rgba(255,255,255, 0.6);
-height:720px;
+    background: rgba(255, 255, 255, 0.6);
+    height: 720px;
 }
 
-#history-text>h2{
+#history-text>h2 {
     font-size: 5vw;
     text-align: center;
     text-decoration: underline;
 }
 
-#history-text>h3{
+#history-text>h3 {
     font-size: large;
     text-align: center;
-    list-style-type:decimal;
+    list-style-type: decimal;
 }
 
 /*Phone size of maximum 320px*/
 
 @media screen and (max-width:320px) {
-    #history-text>h3{
+    #history-text>h3 {
         font-size: medium;
         text-align: center;
     }
 
-    #history-text>h2{
+    #history-text>h2 {
         font-size: 30px;
         text-align: center;
         text-decoration-line: underline;
-        
+
     }
 
-#photos{
-    width: auto;
-    column-count: 1;
-    padding: 0;
-    margin-right: 100%;
-}
+    #photos {
+        width: auto;
+        column-count: 1;
+        padding: 0;
+        margin-right: 100%;
+    }
 
 }
 
-@media screen and (max-width:1450){
-    
-}
+@media screen and (max-width:1450) {}
