@@ -36,6 +36,7 @@ header a {
     color: inherit;
 }
 
+
 .logo {
     color: #fc2f2f;
     background-color: #ffffff;
@@ -82,7 +83,7 @@ nav {
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 1rem;
     display: none;
 }
 
