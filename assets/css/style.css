@@ -17,7 +17,7 @@ h1{
 
 body{
     font-family: 'Times New Roman', Times, serif;
-    
+   
     font-size: small;
 }
 
@@ -226,7 +226,7 @@ height:720px;
     list-style-type:decimal;
 }
 
-/*Phone size of 300px*/
+/*Phone size of maximum 320px*/
 
 @media screen and (max-width:320px) {
     #history-text>h3{
@@ -240,7 +240,7 @@ height:720px;
         text-decoration-line: underline;
         
     }
-    
+
 #photos{
     width: auto;
     column-count: 1;
