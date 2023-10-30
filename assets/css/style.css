@@ -214,12 +214,13 @@ img {
 }
 
 #history-text>h2 {
-    font-size: 5vw;
+    font-size: 2rem;
     text-align: center;
     text-decoration: underline;
+    padding-top: 8vh;
 }
 
-#history-text>h3 {
+#history-text>p {
     font-size: large;
     text-align: center;
     list-style-type: decimal;
