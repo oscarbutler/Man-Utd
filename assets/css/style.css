@@ -183,10 +183,9 @@ img {
     width: 300px;
     height: 300px;
     object-fit: cover;
-    flex: 1;
+    
     border: 3px solid #000000;
-    margin-left: 50%;
-    margin-right: 50%;
+    
 }
 
 #photos {
@@ -224,6 +223,7 @@ img {
     font-size: large;
     text-align: center;
     list-style-type: decimal;
+    line-height: 32px;
 }
 
 /*Phone size of maximum 320px*/
