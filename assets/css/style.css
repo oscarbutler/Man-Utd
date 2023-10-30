@@ -184,12 +184,13 @@ nav a:hover {
 
 /*Contact Pictures*/
 
-img {
+#four {
     width: 300px;
     height: 300px;
     object-fit: cover;
     flex: 1;
     padding: 1em;
+margin-top: 100px;
 }
 
 #photos {
@@ -203,6 +204,12 @@ img {
 #pictures img {
 
     line-height: 1em;
+}
+
+.message {
+    text-align: center;
+    padding-top: 4vh;
+    font-size: 25px;
 }
 
 /*History Page*/
