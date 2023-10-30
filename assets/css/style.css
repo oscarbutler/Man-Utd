@@ -238,7 +238,9 @@ margin-top: 100px;
     line-height: 32px;
 }
 
-img {
+.trophy {
+    height: 300px;
+    width: 300px;
     display: flex;
     flex-wrap: wrap;
     padding-bottom: 60px;
@@ -272,6 +274,7 @@ img{
     flex: wrap;
     padding: 0;
     width: 100%;
+
 }
 #history-section{
     height: 850px;
@@ -279,6 +282,14 @@ img{
 
 #history-text{
     height: 850px;
+}
+
+.trophy{
+    display: flex;
+    flex: wrap;
+    padding: 0;
+    width: 100%;
+    height: auto;
 }
 }
 
