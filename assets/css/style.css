@@ -135,12 +135,17 @@ nav a:hover {
 
 /*Footer*/
 
+
 #links {
     text-align: center;
     padding: 15px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
 }
 
 #links i {
@@ -216,7 +221,7 @@ img {
     font-size: 2rem;
     text-align: center;
     text-decoration: underline;
-    padding-top: 8vh;
+    padding-top: 4vh;
 }
 
 #history-text>p {
@@ -226,11 +231,19 @@ img {
     line-height: 32px;
 }
 
+img {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*Phone size of maximum 320px*/
 
 @media screen and (max-width:320px) {
-    #history-text>h3 {
-        font-size: medium;
+    #history-text>p {
+        font-size: small;
         text-align: center;
     }
 
@@ -247,7 +260,19 @@ img {
         padding: 0;
         margin-right: 100%;
     }
+img{
+    display: flex;
+    flex: wrap;
+    padding: 0;
+    width: 100%;
+}
+#history-section{
+    height: 850px;
+}
 
+#history-text{
+    height: 850px;
+}
 }
 
 @media screen and (max-width:1450) {}
