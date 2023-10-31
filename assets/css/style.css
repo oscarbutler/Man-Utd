@@ -63,6 +63,18 @@ main {
     margin-top: 5px;
 }
 
+.text{
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+    position: relative;
+}
+
+.info{
+    font-size: medium;
+    text-align: center;
+}
+
 /*Navigation System*/
 
 nav {
