@@ -66,6 +66,7 @@ main {
 .about{
     background-color: #fafafa;
     height: 300px;
+    width: 100%;
 }
 
 .text{
@@ -80,6 +81,7 @@ main {
     font-size: large;
     text-align: center;
     padding-bottom: 50px;
+    line-height: 32px;
 }
 
 /*Navigation System*/
@@ -294,6 +296,14 @@ img{
     flex: wrap;
     padding: 0;
     width: 100%;
+}
+.info{
+    width: 90%;
+}
+
+#links{
+    width: 100%;
+}
 
 }
 #history-section{
@@ -313,9 +323,10 @@ img{
 }
 
 .message{
-    width: 90%;
+    width: 100%;
 }
-}
+
+
 
 
 
