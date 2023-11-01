@@ -29,6 +29,9 @@ header {
     width: 100%;
     box-shadow: 0px 5px 5px #000000;
     align-items: baseline;
+    z-index: 999;
+    top: 0;
+    
 }
 
 header a {
@@ -47,11 +50,12 @@ header a {
     position: relative;
     height: 600px;
     width: 100%;
+    padding-top: 30px;
 }
 
 #cover-text {
     background-color: rgba(255, 255, 255, 0.6);
-    padding-top: 30px;
+    padding-top: 0px;
     padding-left: 5px;
     position: absolute;
     width: 300px;
