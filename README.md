@@ -38,3 +38,12 @@
 - HTML
 - Codeanywhere
 - Github
+
+## Navigation Bar
+- I have created a navigation bar in order to let people using the website to maneouver and easily access multiple pages.
+- There will be three pages that are available to view which include:
+- Home page
+- History
+- Contact
+
+- The navigation bar is clear and easy to see as it is the same color as the header. The color of the text is black on a light red/pink background which will be very easy to see.
