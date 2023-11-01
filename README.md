@@ -29,6 +29,10 @@
 
 - After completing the form it will direct you to the response page.
 
+## Response
+
+- A resposne page is very important so it allows the person who have left a question in the contact page to be directed here and it will let them know thta they will  be contacted with the answer to their question.
+
 
 ## Footer
 - The footer contains four different social media pages which can be open a link to each website when clicked on.
