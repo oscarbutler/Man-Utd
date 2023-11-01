@@ -21,6 +21,15 @@
 ## History
 - I have chosen to make a page on the history of the club Manchester United due to the fact that it is a vital reason to why it has one the biggest fanbases in every sport.
 
+## Contact
+
+- A contact page was important as it allows the users to give feedback to potentially give feeback about the website or give more information that would be useful to have about the club.
+
+- In the contact segment I have created a form which has three parts. These parts include name, email address and a question.
+
+- After completing the form it will direct you to the response page.
+
+
 ## Footer
 - The footer contains four different social media pages which can be open a link to each website when clicked on.
 
