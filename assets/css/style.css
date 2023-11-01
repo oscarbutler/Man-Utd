@@ -265,9 +265,9 @@ nav a:hover {
     width: 300px;
     display: flex;
     flex-wrap: wrap;
-    padding-bottom: 60px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 80px;
 }
 
 /*Phone size of maximum 320px*/
@@ -307,6 +307,15 @@ nav a:hover {
         width: 100%;
     }
 
+    .trophy{
+        display: flex;
+        flex: wrap;
+        padding: 0;
+        width: 100%;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
 }
 
 #history-section {
@@ -317,13 +326,7 @@ nav a:hover {
     height: 850px;
 }
 
-.trophy {
-    display: flex;
-    flex: wrap;
-    padding: 0;
-    width: 100%;
-    height: auto;
-}
+
 
 .message {
     width: 100%;
