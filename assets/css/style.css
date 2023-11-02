@@ -214,14 +214,7 @@ nav a:hover {
 
 /*Contact Pictures*/
 
-#four {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-    flex: 1;
-    padding: 1em;
-    margin-top: 100px;
-}
+
 
 #photos {
     line-height: 0;
@@ -234,13 +227,15 @@ nav a:hover {
 #pictures {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
 }
 
 #pictures img {
-
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    flex: 1;
+    padding: 1em;
+    margin-top: 100px;
     line-height: 1em;
 }
 
@@ -258,7 +253,7 @@ nav a:hover {
 
 #history-text {
     background: rgba(255, 255, 255, 0.6);
-    
+
 }
 
 #history-text>h2 {
@@ -322,7 +317,6 @@ nav a:hover {
 
     img {
         display: flex;
-        flex: wrap;
         padding: 0;
         width: 100%;
     }
