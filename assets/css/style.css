@@ -164,7 +164,6 @@ nav a:hover {
 
 /*Footer*/
 
-
 #links {
     text-align: center;
     padding: 15px 0;
@@ -193,8 +192,6 @@ nav a:hover {
     width: 70px;
 }
 
-
-
 #question-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
@@ -213,10 +210,6 @@ nav a:hover {
 }
 
 /*Contact Pictures*/
-
-
-
-
 
 #pictures {
     display: flex;
@@ -335,15 +328,9 @@ nav a:hover {
 
 }
 
-
-
-
-
 .message {
     width: 100%;
 }
-
-
 
 /*Phone size of 425px max*/
 
