@@ -33,7 +33,7 @@ header {
     align-items: baseline;
     z-index: 999;
     top: 0;
-    
+
 }
 
 header a {
@@ -170,11 +170,11 @@ nav a:hover {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    position: absolute;
+    position: sticky;
     bottom: 0;
     width: 100%;
     background-color: rgba(255, 255, 255, 1);
-    
+
 }
 
 #links i {
@@ -230,11 +230,13 @@ nav a:hover {
 
 }
 
-#pictures { display: flex;
-            flex-wrap: wrap;
-            width: 100%;
-            align-items: center;
-            justify-content: center;}
+#pictures {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
 
 #pictures img {
 
@@ -280,7 +282,7 @@ nav a:hover {
     flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 /*Phone size of maximum 320px*/
@@ -296,6 +298,10 @@ nav a:hover {
         text-align: center;
         text-decoration-line: underline;
 
+    }
+
+    #history-text {
+        height: 900px;
     }
 
     #photos {
@@ -318,28 +324,16 @@ nav a:hover {
 
     #links {
         width: 100%;
-        position: absolute;
-        bottom: -400px;
+        position: sticky;
+        bottom: 0px;
     }
 
-    .trophy{
-        display: flex;
-        flex: wrap;
-        padding: 0;
-        width: 100%;
-        height: auto;
-        padding-bottom: 30px;
-    }
+  
+    
 
 }
 
-#history-section {
-    height: 850px;
-}
 
-#history-text {
-    height: 850px;
-}
 
 
 
@@ -347,8 +341,24 @@ nav a:hover {
     width: 100%;
 }
 
+/*Phone size of 425px max*/
 
+@media screen and (max-width:426px) {
 
+#history-text {
+height:1080px;
+}
 
+#history-section{
+    height: 1080px;
+}
 
-@media screen and (max-width:1450) {}
+}
+
+@media screen and (max-width:769px) {
+
+   .trophy{
+    padding-top: 30px;
+    height: auto;
+   }
+    }
