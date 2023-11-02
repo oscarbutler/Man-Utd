@@ -216,17 +216,14 @@ nav a:hover {
 
 
 
-#photos {
-    line-height: 0;
-    column-count: 2;
 
-    padding: 10px;
-
-}
 
 #pictures {
     display: flex;
     flex-wrap: wrap;
+    line-height: 0;
+    column-count: 2;
+    padding: 10px;
 }
 
 #pictures img {
@@ -308,7 +305,7 @@ nav a:hover {
 
 
 
-    #photos {
+    #pictures {
         width: 100%;
         column-count: 1;
         padding: 0;
