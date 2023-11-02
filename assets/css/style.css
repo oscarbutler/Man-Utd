@@ -73,7 +73,7 @@ main {
     background-color: #fafafa;
     height: 300px;
     width: 100%;
-    
+
 }
 
 .text {
@@ -331,10 +331,10 @@ nav a:hover {
         bottom: 0px;
     }
 
-  .trophy{
-    margin-left: 0;
-  }
-    
+    .trophy {
+        margin-left: 0;
+    }
+
 
 }
 
@@ -350,20 +350,20 @@ nav a:hover {
 
 @media screen and (max-width:426px) {
 
-#history-text {
-height:1080px;
-}
+    #history-text {
+        height: 1080px;
+    }
 
-#history-section{
-    height: 1080px;
-}
+    #history-section {
+        height: 1080px;
+    }
 
 }
 
 @media screen and (max-width:769px) {
 
-   .trophy{
-    padding-top: 30px;
-    height: auto;
-   }
+    .trophy {
+        padding-top: 30px;
+        height: auto;
     }
+}
