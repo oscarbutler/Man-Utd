@@ -73,6 +73,7 @@ main {
     background-color: #fafafa;
     height: 300px;
     width: 100%;
+    
 }
 
 .text {
@@ -80,7 +81,7 @@ main {
     text-decoration: underline;
     text-align: center;
     position: relative;
-
+    padding-top: 20px;
 }
 
 .info {
@@ -265,7 +266,7 @@ nav a:hover {
     font-size: 2rem;
     text-align: center;
     text-decoration: underline;
-    padding-top: 4vh;
+    padding-top: 40px;
 }
 
 #history-text>p {
@@ -273,6 +274,7 @@ nav a:hover {
     text-align: center;
     list-style-type: decimal;
     line-height: 32px;
+    width: 90%;
 }
 
 .trophy {
@@ -291,6 +293,7 @@ nav a:hover {
     #history-text>p {
         font-size: small;
         text-align: center;
+        width: 90%;
     }
 
     #history-text>h2 {
@@ -328,7 +331,9 @@ nav a:hover {
         bottom: 0px;
     }
 
-  
+  .trophy{
+    margin-left: 0;
+  }
     
 
 }
