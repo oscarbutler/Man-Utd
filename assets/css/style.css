@@ -254,12 +254,11 @@ nav a:hover {
 
 #history-section {
     background: url("../images/trophies.jpg") no-repeat center/cover;
-    height: 720px;
 }
 
 #history-text {
     background: rgba(255, 255, 255, 0.6);
-    height: 720px;
+    
 }
 
 #history-text>h2 {
@@ -304,8 +303,15 @@ nav a:hover {
     }
 
     #history-text {
-        height: 900px;
+        height: 1100px;
     }
+
+    #history-section {
+        height: 1100px;
+    }
+
+
+
 
     #photos {
         width: 100%;
@@ -346,16 +352,18 @@ nav a:hover {
     width: 100%;
 }
 
+
+
 /*Phone size of 425px max*/
 
 @media screen and (max-width:426px) {
 
     #history-text {
-        height: 1080px;
+        height: 1220px;
     }
 
     #history-section {
-        height: 1080px;
+        height: 1220px;
     }
 
 }
