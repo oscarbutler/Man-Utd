@@ -1,6 +1,16 @@
 # Man-Utd
 
-## Media
+
+
+## User
+
+- For a first time user I want the website to be eye catching in order for the person on the website to be encourage to contiue reading information
+- A first time user should be able to navigate the website with ease and not struggle to find each page
+
+- If someone is frequently visiting the website it would be good if they took a following towards the football team 
+- 
+
+## Credits
 + Main Page
 - [Image] (https://manunitedcore.com/premier-league-announce-manchester-uniteds-jam-packed-festive-schedule-27102023/)
 + Contact Page
@@ -11,17 +21,26 @@
 + History Page
 - [Image] (https://groundhopperguides.com/guide-leagues-cups-english-football/)
 - [Image] (https://manchestersightseeingtours.com/tour/manchester-united-tour/manchester-united-football-club-mufc-trophies-manchester-united-football-club-limited/)
++ Response Page
+- [Image] (https://www.pinterest.co.uk/pin/590041988664995659/)
+- [Image] (https://mclewissloaded.wordpress.com/2017/05/25/man-united-becomes-the-fifth-team-to-win-all-uefa-competitions/)
+- [Image] (https://www.pinterest.co.uk/pin/98516310587901009/)
+- [Image] (https://www.kodromagazine.com/manchester-united-98-99/)
 
-## Home
+## Home Page
 
 - I have made the background of the home page the stadium of Manchester United which is called Old Trafford. This is a very important piece of the club as it is one of the most iconic stadiums in football history. 
 
 - Due to it being called the home page I put the stadium as that is the home of the club.
 
-## History
+[Link](documentation/home-page.png)
+
+## History Page
 - I have chosen to make a page on the history of the club Manchester United due to the fact that it is a vital reason to why it has one the biggest fanbases in every sport.
 
-## Contact
+[Link](documentation/history-page.png)
+
+## Contact Page
 
 - A contact page was important as it allows the users to give feedback to potentially give feeback about the website or give more information that would be useful to have about the club.
 
@@ -29,9 +48,14 @@
 
 - After completing the form it will direct you to the response page.
 
-## Response
+[Link](documentation/contact-page.png)
+
+## Response Page
 
 - A resposne page is very important so it allows the person who have left a question in the contact page to be directed here and it will let them know thta they will  be contacted with the answer to their question.
+
+
+[Link](documentation/response-page.png)
 
 ## Header
 
@@ -52,7 +76,8 @@
 ![Link](documentation/screenshot-footer.png)
 
 ### Font
-- I have used a font from (https://fonts.google.com/)
+- I have use
+ d a font from [Google fonts](https://fonts.google.com/)
 
 ### Color
 - I have mainly used a light red because red is the color of the football club I have made this website on. I have used a lighter red rather then a darker one since it is easier to look at for a longer duration of time and more appealing.
@@ -74,3 +99,40 @@
 - Contact
 
 - The navigation bar is clear and easy to see as it is the same color as the header. The color of the text is black on a light red/pink background which will be very easy to see.
+ 
+ 
+ [Link](documentation/nav.png
+ 
+ ## Wireframes
+
+ ### Mobile Device
+
+ [Home Page](documentation/sc-home-mobile.png)
+
+ [History Page](documentation/sc-history-mobile.png)
+
+ [Contact Page](documentation/sc-contact-mobile.png)
+
+ [Response Page](documentation/sc-response-mobile.png)
+
+ ### Tablet Device
+
+ [Home Page](documentation/sc-home-tablet.png)
+
+ [History Page](documentation/sc-history-tablet.png)
+
+ [Contact Page](documentation/sc-contact-tablet.png)
+
+ [Response Page](documentation/sc-response-tablet.png)
+
+ ### Desktop Device
+
+ [Home Page](documentation/sc-history-web.png)
+
+ [History Page](documentation/sc-history-web.png)
+
+ [Contact Page](documentation/sc-contact-web.png)
+
+ [Response Page](documentation/sc-response-web.png) 
+
+
