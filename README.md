@@ -33,6 +33,12 @@
 
 - A resposne page is very important so it allows the person who have left a question in the contact page to be directed here and it will let them know thta they will  be contacted with the answer to their question.
 
+## Header
+
+- The header contains a navigation system which allows you to efficiently go through the website.
+
+- It is important to make sure the header is easy to see and the navigation
+![Link](documentation/screenshot-header.png)
 
 ## Footer
 - The footer contains four different social media pages which can be open a link to each website when clicked on.
