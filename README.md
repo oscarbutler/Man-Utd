@@ -46,6 +46,11 @@
 ## Footer
 - The footer contains four different social media pages which can be open a link to each website when clicked on.
 
+- The footer is very clear and easy to see for the user of the website
+
+- The social media links will take you to the website with ease which is vital for a footer
+![Link](documentation/screenshot-footer.png)
+
 ### Font
 - I have used a font from (https://fonts.google.com/)
 
