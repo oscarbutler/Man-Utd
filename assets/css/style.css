@@ -200,6 +200,20 @@ footer{
 
 /*Contact Form*/
 
+.contact-header {
+    margin: 2em;
+}
+
+#question-form {
+width: 100%;
+max-width: 50rem;
+background-color: #ff7a7a;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
 .join-button {
     background-color: orange;
     border-radius: 4px;
@@ -217,11 +231,15 @@ footer{
 }
 
 #full_name {
-    width: 31.4%;
+    width: 50%;
 }
 
 #email_address {
-    width: 30%;
+    width: 60%;
+}
+
+.text-question {
+    resize: vertical;
 }
 
 /*Contact Pictures*/
