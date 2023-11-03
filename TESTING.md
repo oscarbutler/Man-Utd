@@ -2,6 +2,8 @@
 
 ## Responsiveness
 
+The responsiveness of these website pages were tested by [Link](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+
 ### Home Page
 
 ![Link](documentation/re-check-home.png)
@@ -9,13 +11,18 @@
 
 ### History Page
 
-![Link]()
-1[Link]()
+![Link](documentation/history-res.png)
+1[Link](documentation/his-res-two.png)
 
 ### Contact Page
 
 ![Link](documentation/responsiveness-check.png)
 ![Link](documentation/contact-responsive-check.png)
+
+### Response Page
+
+![Link](documentation/res-res.png)
+![Link](documentation/re-res.png)
 
 ## Manual Testing
 
