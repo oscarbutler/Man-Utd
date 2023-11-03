@@ -37,8 +37,11 @@
 
 - The header contains a navigation system which allows you to efficiently go through the website.
 
-- It is important to make sure the header is easy to see and the navigation
+- It is important to make sure the header is easy to see and the navigation.
 ![Link](documentation/screenshot-header.png)
+
+- The header is also visible with the navigation bar being easy to acces on mobile as well.
+![Link](documentation/screenshot-header-phone-two.png)
 
 ## Footer
 - The footer contains four different social media pages which can be open a link to each website when clicked on.
