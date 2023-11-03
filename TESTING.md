@@ -1,5 +1,22 @@
 
 
+## Responsiveness
+
+### Home Page
+
+![Link](documentation/re-check-home.png)
+![Link](documentation/re-check-home-two.png)
+
+### History Page
+
+![Link]()
+1[Link]()
+
+### Contact Page
+
+![Link](documentation/responsiveness-check.png)
+![Link](documentation/contact-responsive-check.png)
+
 ## Manual Testing
 
 | feature | action | expected result | tested | passed | comments |
