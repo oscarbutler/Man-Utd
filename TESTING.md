@@ -1,4 +1,4 @@
-
+# Testing
 
 ## Responsiveness
 
@@ -11,8 +11,8 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 
 ### History Page
 
-![Link](documentation/history-res.png)
-1[Link](documentation/his-res-two.png)
+![Link](documentation/history-es.png)
+1![Link](documentation/his-res-two.png)
 
 ### Contact Page
 
