@@ -2,7 +2,7 @@
 
 ## Responsiveness
 
-The responsiveness of these website pages were tested by [Link](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+The responsiveness of these website pages were tested by [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 
 ### Home Page
 

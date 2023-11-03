@@ -293,7 +293,7 @@ align-items: center;
     font-size: 2rem;
     text-align: center;
     text-decoration: underline;
-    padding-top: 40px;
+    padding-top: 80px;
 }
 
 #history-text>p {
@@ -396,3 +396,22 @@ align-items: center;
         height: auto;
     }
 }
+
+@media screen and (max-width: 360px) {
+    #history-text>h2{
+        padding-top: 200px;
+    }
+    }
+
+
+@media screen and (max-width: 350px) {
+#history-text>h2{
+    padding-top: 120px;
+}
+}
+
+@media screen and (max-width: 412px) {
+    #history-text>h2{
+        padding-top: 80px;
+    }
+    }
