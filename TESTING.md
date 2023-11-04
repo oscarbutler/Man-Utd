@@ -12,7 +12,7 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 ### History Page
 
 ![Link](documentation/history-es.png)
-1![Link](documentation/his-res-two.png)
+![Link](documentation/his-res-two.png)
 
 ### Contact Page
 
@@ -45,3 +45,57 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 | "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
 | Response page | | | | | |
 | Response message | The user will be shown a message about when they will be contacted | The user will see the message | Yes | Yes | - |
+
+()
+## Performance
+
+In the devtools I used the lighthouse report to test the websites performance
+
+(documentation/sc-homepage-performance)
+
+(documentation/sc-history-performance)
+documentation/sc-content-performance
+
+
+(documentation/sc-response-performance)
+
+
+## Bugs
+
+### Solved Bugs
+
+- The lighthouse performance rating was too low due to the size of the photos being too big.
+
+* Solution
+
+- I found new images which sizes were a lot smaller which made the website load time a lot more efficient
+
+### Unsolved Bugs
+
+### Mistakes
+
+- At the start of this project I found myself often using past tense in my commits which I made sure I would not repeat in the future.
+
+- At the start I also did not specify which file I was commiting and instead comitted them all which made it very deifficult to read the progress I made over time.
+
+## HTML Check
+
+### Home Page
+
+(documentation/index-html-checl.png)
+
+### History Page
+
+(documentation/sc-history-check.png)
+
+### Content Page
+
+(documentation/sc-contact-check.png)
+
+### Response Page
+
+(documentation/sc-response-check.png)
+
+## CSS Check
+
+(documentation/sc-style-check.png)
