@@ -10,6 +10,8 @@ The different browsers I have chosen to use are Google Chrome, Microsoft Edge an
 
 ![Firefox](documentation/firefox-test.png)
 
+This shows that the website is comaptable to a variety of browsers since it is all the same image
+
 ## Responsiveness
 
 The responsiveness of these website pages were tested by [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
