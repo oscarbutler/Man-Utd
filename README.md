@@ -129,8 +129,7 @@
 
  ![Home Page](documentation/sc-home-tablet.png)
 
- ![History Page](documentation/sc-histo
-ry-tablet.png)
+ ![History Page](documentation/sc-history-tablet.png)
 
  ![Contact Page](documentation/sc-contact-tablet.png)
 
