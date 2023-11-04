@@ -41,12 +41,12 @@
 
 - Due to it being called the home page I put the stadium as that is the home of the club.
 
-[Home](documentation/home-page.png)
+![Home](documentation/home-page.png)
 
 ## History Page
 - I have chosen to make a page on the history of the club Manchester United due to the fact that it is a vital reason to why it has one the biggest fanbases in every sport.
 
-[History](documentation/history-page.png)
+![History](documentation/history-page.png)
 
 ## Contact Page
 
@@ -56,14 +56,14 @@
 
 - After completing the form it will direct you to the response page.
 
-[Contact](documentation/contact-page.png)
+![Contact](documentation/contact-page.png)
 
 ## Response Page
 
 - A resposne page is very important so it allows the person who have left a question in the contact page to be directed here and it will let them know thta they will  be contacted with the answer to their question.
 
 
-[Response](documentation/response-page.png)
+![Response](documentation/response-page.png)
 
 ## Header
 
