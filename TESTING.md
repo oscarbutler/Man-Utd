@@ -1,28 +1,38 @@
 # Testing
 
+## Compatability
+
+The different browsers I have chosen to use are Google Chrome, Microsoft Edge and Firefox
+
+![Google Chrome](documentation/google-chrome-test.png)
+
+![Microsoft Edge](documentation/microsoft-edge-test.png)
+
+![Firefox](documentation/firefox-test.png)
+
 ## Responsiveness
 
 The responsiveness of these website pages were tested by [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 
 ### Home Page
 
-![Link](documentation/re-check-home.png)
-![Link](documentation/re-check-home-two.png)
+![Home Page](documentation/re-check-home.png)
+![Home Page](documentation/re-check-home-two.png)
 
 ### History Page
 
-![Link](documentation/history-es.png)
-![Link](documentation/his-res-two.png)
+![History Page](documentation/history-es.png)
+![History Page](documentation/his-res-two.png)
 
 ### Contact Page
 
-![Link](documentation/responsiveness-check.png)
-![Link](documentation/contact-responsive-check.png)
+![Contact Page](documentation/sc-contact-res.png)
+![Contact Page](documentation/sc-contact-res-two.png)
 
 ### Response Page
 
-![Link](documentation/res-res.png)
-![Link](documentation/re-res.png)
+![Response Page](documentation/sc-response-res.png)
+![Response Page](documentation/sc-response-responsiveness.png)
 
 ## Manual Testing
 
@@ -46,18 +56,18 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 | Response page | | | | | |
 | Response message | The user will be shown a message about when they will be contacted | The user will see the message | Yes | Yes | - |
 
-()
+
 ## Performance
 
 In the devtools I used the lighthouse report to test the websites performance
 
-(documentation/sc-homepage-performance)
+![Home Page](documentation/sc-homepage-performance)
 
-(documentation/sc-history-performance)
-documentation/sc-content-performance
+![History Page](documentation/sc-history-performance)
 
+![Content Page](documentation/sc-content-performance)
 
-(documentation/sc-response-performance)
+![Response Page](documentation/sc-response-performance)
 
 
 ## Bugs
@@ -72,9 +82,8 @@ documentation/sc-content-performance
 
 ### Unsolved Bugs
 
-### Mistakes
-
-- At the start of this project I found myself often using past tense in my commits which I made sure I would not repeat in the future.
+- N repeat in the fut
+- I did not add style to body and main elements from the start which made it harder to create an appealing website
 
 - At the start I also did not specify which file I was commiting and instead comitted them all which made it very deifficult to read the progress I made over time.
 
@@ -82,20 +91,20 @@ documentation/sc-content-performance
 
 ### Home Page
 
-(documentation/index-html-checl.png)
+![Home Page](documentation/index-html-checl.png)
 
 ### History Page
 
-(documentation/sc-history-check.png)
+![History Page](documentation/sc-history-check.png)
 
 ### Content Page
 
-(documentation/sc-contact-check.png)
+![Content Page](documentation/sc-contact-check.png)
 
 ### Response Page
 
-(documentation/sc-response-check.png)
+![Response Page](documentation/sc-response-check.png)
 
 ## CSS Check
 
-(documentation/sc-style-check.png)
+![Style](documentation/sc-style-check.png)
