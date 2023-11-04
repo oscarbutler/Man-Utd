@@ -43,10 +43,10 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 | History | Click on the "History" link | The user is redirected to the history page | Yes | Yes | - |
 | Contact | Click on the "Contact" link | The user is redirected to the contact page | Yes | Yes | - |
 | Footer | | | | | |
-| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
-| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
-| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
-| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | - |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | It should open the link in another tab or page |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | It should open the link in another tab or page |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | It should open the link in another tab or page |
+| YouTube icon in the footer | Click on the YouTube icon | The user is redirected to the YouTube page | Yes | Yes | It should open the link in another tab or page |
 | Home page | | | | | |
 | History page | | | | | |
 | Contact page | | | | | |
@@ -61,13 +61,13 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 
 In the devtools I used the lighthouse report to test the websites performance
 
-![Home Page](documentation/sc-homepage-performance)
+[Home Page](documentation/sc-homepage-performance)
 
-![History Page](documentation/sc-history-performance)
+[History Page](documentation/sc-history-performance)
 
-![Content Page](documentation/sc-content-performance)
+[Content Page](documentation/sc-content-performance)
 
-![Response Page](documentation/sc-response-performance)
+[Response Page](documentation/sc-response-performance)
 
 
 ## Bugs
@@ -82,7 +82,6 @@ In the devtools I used the lighthouse report to test the websites performance
 
 ### Unsolved Bugs
 
-- N repeat in the fut
 - I did not add style to body and main elements from the start which made it harder to create an appealing website
 
 - At the start I also did not specify which file I was commiting and instead comitted them all which made it very deifficult to read the progress I made over time.
