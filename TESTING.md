@@ -78,9 +78,13 @@ In the devtools I used the lighthouse report to test the websites performance
 
 * Solution
 
-- I found new images which sizes were a lot smaller which made the website load time a lot more efficient
+- I replaced the images but also had to delete one which went against my plans I made at the start.
 
 ### Unsolved Bugs
+
+- None
+
+### Mistakes
 
 - I did not add style to body and main elements from the start which made it harder to create an appealing website
 
