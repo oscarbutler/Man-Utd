@@ -65,7 +65,7 @@ In the devtools I used the lighthouse report to test the websites performance
 
 ![History Page](documentation/sc-history-performance.png)
 
-![Content Page](documentation/sc-content-performance.png)
+![Contact Page](documentation/sc-contact-performance.png)
 
 ![Response Page](documentation/sc-response-performance.png)
 
@@ -84,7 +84,7 @@ In the devtools I used the lighthouse report to test the websites performance
 
 - I did not add style to body and main elements from the start which made it harder to create an appealing website
 
-- At the start I also did not specify which file I was commiting and instead comitted them all which made it very deifficult to read the progress I made over time.
+- At the start I also did not specify which file I was commiting and instead comitted them all which made it very deifficult to read the progress I made over time
 
 ## HTML Check
 
