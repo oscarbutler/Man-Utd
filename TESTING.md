@@ -61,13 +61,13 @@ The responsiveness of these website pages were tested by [Responsive Viewer](htt
 
 In the devtools I used the lighthouse report to test the websites performance
 
-[Home Page](documentation/sc-homepage-performance)
+![Home Page](documentation/sc-homepage-performance.png)
 
-[History Page](documentation/sc-history-performance)
+![History Page](documentation/sc-history-performance.png)
 
-[Content Page](documentation/sc-content-performance)
+![Content Page](documentation/sc-content-performance.png)
 
-[Response Page](documentation/sc-response-performance)
+![Response Page](documentation/sc-response-performance.png)
 
 
 ## Bugs
